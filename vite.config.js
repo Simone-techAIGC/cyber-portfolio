@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: '/cyber-portfolio/',
   plugins: [react(), tailwindcss()],
-  base: '/cyber-portfolio/',  // 👈 必须写，仓库名
 })

@@ -98,4 +98,4 @@ cyber-portfolio/
 
 ## License
 
-MIT
+MIT License © [Simone-techAIGC]
